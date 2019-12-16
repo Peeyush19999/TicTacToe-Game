@@ -13,13 +13,11 @@
 
 The numbers is shown below-
 
- _______________
-|  7  |  8  | 9 |
- _______________
-|  4  |  5  | 6 |
- _______________    
-|  1  |  2  | 3 |
- _______________
+|   |   |   |
+|---|---|---|
+|  7 | 8  | 9  |
+|  4 | 5  | 6  |
+|  1 | 2  | 3  |   
      
 
 This is the pattern how your number system is arranged.
